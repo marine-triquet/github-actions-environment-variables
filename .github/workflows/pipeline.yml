@@ -29,4 +29,4 @@ jobs:
     - name: Print name
       run: echo "Hello $NAME $BUILD. Using Java version $JAVA_Version"
       env:
-        BUILD: 'We are currently running the Build job"
+        BUILD: 'We are currently running the Build job'
